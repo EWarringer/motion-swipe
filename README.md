@@ -1,3 +1,5 @@
+Initial version cloned from https://github.com/dam13n/motion-swipe
+
 Motion-Swipe for RubyMotion
 ====================
 ![alt tag](http://imgur.com/4bYw12e.gif)
